@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SplashScreen>
+  <Image>
+    <Path>SplashScreen/cougar</Path>
+    <IsActive>true</IsActive>
+    <Position>
+      <X>250</X>
+      <Y>300</Y>
+    </Position>
+    <Text>Team No Name</Text>
+    <TextPos>
+      <X>35</X>
+      <Y>235</Y>
+    </TextPos>
+    <TColor>White</TColor>
+    <Text>.</Text>
+    <TextPos>
+      <X>240</X>
+      <Y>380</Y>
+    </TextPos>
+    <TColor>Red</TColor>
+    <SpinningLoc>
+      <X>240</X>
+      <Y>380</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>250</X>
+      <Y>390</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>260</X>
+      <Y>400</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>250</X>
+      <Y>410</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>240</X>
+      <Y>420</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>230</X>
+      <Y>410</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>220</X>
+      <Y>400</Y>
+    </SpinningLoc>
+    <SpinningLoc>
+      <X>230</X>
+      <Y>390</Y>
+    </SpinningLoc>
+  </Image>
+  
+</SplashScreen>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bullet>
+  <Image>
+    <Name>Normal Bullet</Name>
+    <Text>.</Text>
+    <TextPos>
+      <X>241</X>
+      <Y>120</Y>
+    </TextPos>
+    <TColor>Red</TColor>
+  </Image>
+  <MoveSpeed>100</MoveSpeed>
+</Bullet>

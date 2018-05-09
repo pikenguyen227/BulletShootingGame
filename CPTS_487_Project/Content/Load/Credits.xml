@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+  <Axis>Y</Axis>
+  <Effects>Fade</Effects>
+  <Item>
+    <LinkType>Menu</LinkType>
+    <LinkID>Content/Load/TitleMenu.xml</LinkID>
+    <Image>
+      <Text>Back</Text>
+    </Image>
+  </Item>
+</Menu>

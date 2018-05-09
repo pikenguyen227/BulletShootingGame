@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/Load/ScreenManager.xml</SourceFile>
+  <SourceTime>2017-01-25T20:56:32.5518816-08:00</SourceTime>
+  <DestFile>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/bin/Windows/Load/ScreenManager.xnb</DestFile>
+  <DestTime>2017-01-25T20:56:35.3291176-08:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2016-03-29T23:36:08-07:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2016-03-29T23:36:08-07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

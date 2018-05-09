@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/Font/logo.spritefont</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/SplashScreen/cougar.jpg</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/ScreenManager/FadeImage.jpg</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Player/player.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Enemy/Blue.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Enemy/Green.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Enemy/Red.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/Font/counter.spritefont</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/Font/default.spritefont</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Enemy/Big.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Bullet/bulletblue.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Bullet/bulletpurple.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Boss/MidBossSprite.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Bullet/bulletred.png</File>
+    <File>C:/Users/piken/Documents/Visual Studio 2015/Projects/CPTS_487_Project/CPTS_487_Project/Content/GamePlay/Bullet/bulletpink.png</File>
+  </SourceFiles>
+</SourceFileCollection>
